@@ -5,4 +5,4 @@
        
        FR : Inconnu qui vous donne des renseignements (RageUI)
        EN : Unknown giving informations (RageUI)
-       My Discord : Sneaky'#6666
+       My Discord : Sneaky'#0001
